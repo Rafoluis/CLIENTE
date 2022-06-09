@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-             <asp:Label ID="filtro" CssClass="ete" runat="server" Text="Reporte por filtro de genero"></asp:Label>
+             <asp:Label ID="filtroo" CssClass="ete" runat="server" Text="Reporte por filtro de genero"></asp:Label>
             <asp:TextBox ID="filt_in" CssClass="box" runat="server"></asp:TextBox>
             <br />
             <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
